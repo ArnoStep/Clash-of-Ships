@@ -1,0 +1,13 @@
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.csprojAssemblyReference.cache
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.AssemblyInfoInputs.cache
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.AssemblyInfo.cs
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.exe
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.deps.json
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.runtimeconfig.json
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.runtimeconfig.dev.json
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.dll
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\bin\Debug\netcoreapp3.1\Clash of ships.pdb
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.dll
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.pdb
+C:\Users\stepa\source\repos\Clash of ships\Clash of ships\obj\Debug\netcoreapp3.1\Clash of ships.genruntimeconfig.cache
