@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stepa\\source\\repos\\Clash of ships\\Clash of ships\\Clash of ships.csproj",
-      "projectName": "Clash of ships",
-      "projectPath": "C:\\Users\\stepa\\source\\repos\\Clash of ships\\Clash of ships\\Clash of ships.csproj",
+      "projectUniqueName": "D:\\GITHUB\\Clash-of-Ships\\Clash of ships (OOP)\\Clash of ships (OOP)\\Clash of ships (OOP).csproj",
+      "projectName": "Clash of ships (OOP)",
+      "projectPath": "D:\\GITHUB\\Clash-of-Ships\\Clash of ships (OOP)\\Clash of ships (OOP)\\Clash of ships (OOP).csproj",
       "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stepa\\source\\repos\\Clash of ships\\Clash of ships\\obj\\",
+      "outputPath": "D:\\GITHUB\\Clash-of-Ships\\Clash of ships (OOP)\\Clash of ships (OOP)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stepa\\AppData\\Roaming\\NuGet\\NuGet.Config",

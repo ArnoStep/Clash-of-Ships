@@ -1,0 +1,26 @@
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).AssemblyInfoInputs.cache
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).AssemblyInfo.cs
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).exe
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).deps.json
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).runtimeconfig.json
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).runtimeconfig.dev.json
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).dll
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).pdb
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).dll
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).pdb
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).genruntimeconfig.cache
+C:\Users\stepa\source\repos\Player\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).csprojAssemblyReference.cache
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).exe
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).deps.json
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).runtimeconfig.json
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).runtimeconfig.dev.json
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).dll
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\bin\Debug\netcoreapp3.1\Clash of ships (OOP).pdb
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).csprojAssemblyReference.cache
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).csproj.CoreCompileInputs.cache
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).AssemblyInfoInputs.cache
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).AssemblyInfo.cs
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).dll
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).pdb
+D:\GITHUB\Clash-of-Ships\Clash of ships (OOP)\Clash of ships (OOP)\obj\Debug\netcoreapp3.1\Clash of ships (OOP).genruntimeconfig.cache
